@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<suite name="WebDriver">
-	<test name="Test">
-		<classes>
-			<class name="com.edureka.App"></class>
-		</classes>
-	</test>
-</suite>
